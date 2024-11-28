@@ -1,0 +1,1 @@
+// Item in the wishlist, displayed similarly to ProductCard.

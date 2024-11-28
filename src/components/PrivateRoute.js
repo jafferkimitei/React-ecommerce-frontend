@@ -1,0 +1,1 @@
+// A route guard for private pages like Dashboard, Cart, etc.

@@ -1,0 +1,1 @@
+// A page shown after a successful order with order details.

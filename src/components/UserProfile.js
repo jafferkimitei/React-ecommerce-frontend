@@ -1,0 +1,1 @@
+// Displays the user’s profile details (order history, wish list, etc.).

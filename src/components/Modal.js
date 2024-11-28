@@ -1,0 +1,1 @@
+// A reusable modal for actions like adding to cart, product details, etc.
